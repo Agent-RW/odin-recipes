@@ -1,0 +1,14 @@
+body {
+    background-color: rgb(30, 30, 60);
+    color: white;
+}
+
+.header,
+.footer {
+    text-align: center;
+}
+
+img {
+    border-radius: 8px;
+    border: black solid 4px;
+}
