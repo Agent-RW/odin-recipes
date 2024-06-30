@@ -1,6 +1,8 @@
 body {
-    background-color: rgb(30, 30, 60);
+    background-color: hsl(240, 40%, 20%);
     color: white;
+    width: 1200px;
+    margin: auto;
 }
 
 .header,
@@ -9,6 +11,14 @@ body {
 }
 
 img {
+    border: red solid 4px;
     border-radius: 8px;
-    border: black solid 4px;
+}
+
+.short-ls {
+    width: 300px;
+    background-color: burlywood;
+    border: solid red 4px;
+    border-radius: 8px;
+    color: hsl(240, 30%, 30%); 
 }
